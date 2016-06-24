@@ -1,18 +1,19 @@
-source: dir
-destination: dir
-safe: true
-exclude: dir
-include: dir
-keep_files: fids
-timezone: timezone
-encoding: utf8
+#source: dir
+#destination: dir
+#safe: true
+#exclude: dir
+#include: dir
+#keep_files: fids
+#timezone: timezone
+#encoding: utf8
+##头部默认信息
+#defaults:
+# -
+#  scope:
+#   path: "projects"
+#   type: "pages"
+#  values:
+#   layout: "project"
+#   author: "Mr. Hyde"
+#   category: "project"
 
-defaults:
- -
-  scope:
-   path: "projects"
-   type: "pages"
-  values:
-   layout: "project"
-   author: "Mr. Hyde"
-   category: "project"

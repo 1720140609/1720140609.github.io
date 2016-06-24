@@ -4,3 +4,5 @@ _site/
 .jekyll-metadata
 
 # Created by .ignore support plugin (hsz.mobi)
+.idea/
+
